@@ -11,7 +11,7 @@
   The main findings of this analysis are summarised in a blog post available here.
 
 # File Descriptions
-  This Contain 3 files first is code file .ipynb which contain code and two are .csv file which are dataset of Stack overflow  survey 2017
+  This Contain 2 files first is code file .ipynb which contain code and .zip file in which they are  two are .csv file which are dataset of Stack overflow  survey 2017
 # Licensing, Authors, Acknowledgements
   The dataset used in this analysis was created by Stack Overflow and made available for download under the Open Database License (ODbL).
 
