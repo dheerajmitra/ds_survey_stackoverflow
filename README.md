@@ -8,7 +8,7 @@
      Q2 What type of Web Developrs take survey ,What is the gradution level of Data Scientist and what language they used ?<br/>
      Q3 What are the habits of developers like when they start their work , what are the remote developers timing and habits to do their    daily work? 
 # Results
-  The main findings of this analysis are summarised in a blog post available here.
+  The main findings of this analysis are summarised in a blog post available here https://medium.com/@dheerajmitra18/data-scientist-and-remote-developer-627ccc06850d.
 
 # File Descriptions
   This Contain 2 files first is code file .ipynb which contain code and .zip file in which they are  two are .csv file which are dataset of Stack overflow  survey 2017
