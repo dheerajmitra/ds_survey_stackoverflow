@@ -4,9 +4,9 @@
 
 # Project Motivation
   For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
-    # Q1 I want to know How bootcamps assisting with increasing diversity in tech careers and How Bootcamp helping Job and Developers?
-    # Q2 What type of Web Developrs take survey ,What is the gradution level of Data Scientist and what language they used ?
-    # Q3 What are the habits of developers like when they start their work , what are the remote developers timing and habits to do their    daily work? 
+     Q1 I want to know How bootcamps assisting with increasing diversity in tech careers and How Bootcamp helping Job and Developers?
+     Q2 What type of Web Developrs take survey ,What is the gradution level of Data Scientist and what language they used ?
+     Q3 What are the habits of developers like when they start their work , what are the remote developers timing and habits to do their    daily work? 
 # Results
   The main findings of this analysis are summarised in a blog post available here.
 
